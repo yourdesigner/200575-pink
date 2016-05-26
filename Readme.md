@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Кирилл Казарцев](https://up.htmlacademy.ru/adaptive/7/user/200575).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Рогатнев] (https://htmlacademy.ru/profile/id86119).
 
 ---
 
